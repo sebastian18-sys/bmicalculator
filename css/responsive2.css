@@ -1,0 +1,12 @@
+.main-register__form div {
+    width: 150px;
+    text-align: center;
+}
+
+.main-register__form--input {
+    width: 100px;
+}
+
+.register-contanier__form--boton {
+    width: 120px;
+}
